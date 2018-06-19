@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Dr. Mark E. Lehr
- * Created on February 13, 2018, 11:27 AM
+ * Created on June 13, 2018, 11:27 AM
  * Purpose:  Your first program,
  *           Hello World as explained in the
  *           Kerninghan & Ritchie Programming in C
